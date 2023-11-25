@@ -1,0 +1,49 @@
+.body_b {
+    display: flex;
+    flex-direction: row;
+}
+
+.content {
+    margin: 10px;
+}
+
+.sidebar {
+    width: 250px;
+}
+
+.title {
+    font-family: Arial black
+}
+
+.tags {
+    font-size: 14px;
+    color: blue;
+}
+
+.date {
+    font-size: 14px;
+    color: red;
+    font-style: italic;
+}
+
+.comment {
+    font-size: 16px;
+}
+
+.info {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.data_post {
+    font-size: 18px;
+    font-style: bold;
+}
+
+.head {
+    text-align: center
+}
+
+.foot {
+    text-align: center
+}
